@@ -11,3 +11,4 @@ Ici, un second site en php et bootstrap :
 http://iutdoua-web.univ-lyon1.fr/~p1605524/projet_junior/
 l'identifiant admin est admin
 le mot de passe est 1234
+
